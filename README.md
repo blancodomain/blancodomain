@@ -1,10 +1,21 @@
-# Building with ...
-
-```python
-hi
-
+# Name
 
 ```
+
+```
+
+<details><summary><h2> Hi</h2> </summary>
+<p>
+
+#### We can hide anything, even code!
+
+```ruby
+   puts "Hello World"
+```
+
+</p>
+</details>
+
 
 	
 |   |                                             |
