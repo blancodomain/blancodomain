@@ -1,3 +1,3 @@
 <div align="center">
-  <img src="secondtest.gif" />
+  <img src="thirdtest.gif" />
 </div>
