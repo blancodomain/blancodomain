@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="thirdtest.gif" />
+  <img src="organ.gif" />
 </div>
 
 
