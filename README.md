@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="organ.gif" />
+  <img src="c.gif" />
 </div>
 
 
