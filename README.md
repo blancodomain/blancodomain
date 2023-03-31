@@ -2,5 +2,13 @@
   <img src="C.gif" />
 </div>
 
+---
 
-![Text Animation](./text.svg)
+word word word wordword word word wordword word word wordword word word wordword word word wordword word word wordword word word wordword word word wordword word word wordword word word wordword word word wordword word word wordword word word wordword word word word
+
+word word word wordword word word wordword word word wordword word word wordword word word wordword word word wordword word word wordword word word wordword word word wordword word word wordword word word wordword word word wordword word word wordword word word word
+
+
+word word word wordword word word wordword word word wordword word word wordword word word wordword word word wordword word word wordword word word wordword word word wordword word word wordword word word word
+
+word word word word word word word word word word word word word word word word word word word word word word word word word word word word 
